@@ -1,4 +1,4 @@
-Inventory Management System
+Practical Task Wolf Soft : 
 ----------
 
 # Getting started
